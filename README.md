@@ -3,14 +3,14 @@ A project to find a convenient mathematical model that allows to get the optimal
 
 ## Year: 2022. 
 
-## Description. 
+# Description. 
 
-Se parte con el modelado de la rueda de reacción, misma que se divide en dos partes esenciales: la
-dinámica del motor y el modelo de la rueda de reacción.
+In the next pages, a report about the design of a non-COTs reaction wheel is presented. 
+The actuator is designed starting from the inertia disk in order to determine the angular momentum capability required, and ending with the complete reaction wheel model in state-space and transfer function representations. 
 
-### Diagrama a bloques de la dinámica interna y externa de la rueda de reacción. 
+# Reaction Wheel design. 
 
-![imagen](https://github.com/Lechuga-Geronimo/ReactionWheelDesign/assets/142461885/4c9dbcd7-c189-416f-a914-d74c984ceb56)
+![Tesis_Lechuga_Final_pages-to-jpg-0057](https://github.com/Lechuga-Geronimo/ReactionWheelDesign/assets/142461885/8d104505-6e9e-4dfb-8df4-8fcc3fae0ee4)
 
 ## Inertia Disk Design.
 
