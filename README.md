@@ -14,13 +14,19 @@ dinámica del motor y el modelo de la rueda de reacción.
 
 ## Inertia Disk Design.
 
+### Operation principle and drawing. 
+
 ![Tesis_Lechuga_Final_pages-to-jpg-0058](https://github.com/Lechuga-Geronimo/ReactionWheelDesign/assets/142461885/8ce27691-506b-4275-bde7-d600b794759a)
 
 ### Inertia Disk Modeling. 
 
 ![Tesis_Lechuga_Final_pages-to-jpg-0059](https://github.com/Lechuga-Geronimo/ReactionWheelDesign/assets/142461885/7a2fefd5-9ea9-4857-a517-310000dac710)
 
+### More properties (Rotation time and maximum angular momentum). 
+
 ![Tesis_Lechuga_Final_pages-to-jpg-0060](https://github.com/Lechuga-Geronimo/ReactionWheelDesign/assets/142461885/d4900975-78a6-47e6-9d12-9ca00d7e0fa6)
+
+## Motor model.
 
 ### Motor modeling.
 
